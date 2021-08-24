@@ -9,7 +9,7 @@ const twitter = {
 }
 
 const here = {
-    apiKey: 'HERE_API_KEY'    
+    apiKey: 'HEREAPIKEY'    
 }
 
 /* Hack to work both in mode and in browser */
