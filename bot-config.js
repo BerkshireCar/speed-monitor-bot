@@ -1,6 +1,6 @@
 const config = {
   // Set your bounding box here
-  bbox: '51.5619,-0.1006;51.5454,-0.0935',// A1201 - Highbury grove/Blackstock Road
+  bbox: 'BOUNDINGBOX',// A1201 - Highbury grove/Blackstock Road
 
   // Road identity filter. Use the index.html to get it.
   LI_filter: 'C07-13780',
